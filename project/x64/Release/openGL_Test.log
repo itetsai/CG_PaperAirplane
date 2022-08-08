@@ -1,0 +1,22 @@
+﻿  openGL-assimp-stl-obj.cpp
+c:\users\school\desktop\p\cg_paperairplane\include\assimp\defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(86): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(87): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(88): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(107): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(114): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(117): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(119): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(106): warning C4101: 'ch': 未參考的區域變數
+c:\users\school\desktop\p\cg_paperairplane\project\opengl-assimp-stl-obj.cpp(143): warning C4101: 'i': 未參考的區域變數
+  正在產生程式碼
+  1 of 191 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+openGL-assimp-stl-obj.obj : warning LNK4020: 'c:\users\school\desktop\p\cg_paperairplane\project\x64\release\vc141.pdb' 中的類型記錄已經損毀，可能無法從偵錯工具存取某些符號和類型
+  openGL_Test.vcxproj -> C:\Users\school\Desktop\P\CG_PaperAirplane\project\..\bin\x64\openGLExample.exe

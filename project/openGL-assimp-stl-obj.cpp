@@ -194,7 +194,7 @@ void RenderFunction(void)
 	glFlush();
 	glutSwapBuffers();
 	glutPostRedisplay();
-	Sleep(15);
+	Sleep(5);
 	t++;
 }
 
